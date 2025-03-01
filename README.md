@@ -1,4 +1,3 @@
-Below is a reworded version of the `readme.md` file tailored to sound more educational, emphasizing that it is for learning purposes only and not intended for real-world use unless properly validated. The structure remains intact, but the tone and phrasing have been adjusted.
 
 ---
 
